@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fatemeafandakdev/passhideshow/static/css/main.6add28db.css",
+    "main.js": "/fatemeafandakdev/passhideshow/static/js/main.a5b8a89b.js",
+    "index.html": "/fatemeafandakdev/passhideshow/index.html",
+    "main.6add28db.css.map": "/fatemeafandakdev/passhideshow/static/css/main.6add28db.css.map",
+    "main.a5b8a89b.js.map": "/fatemeafandakdev/passhideshow/static/js/main.a5b8a89b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6add28db.css",
+    "static/js/main.a5b8a89b.js"
+  ]
+}
